@@ -1,7 +1,7 @@
 #!/bin/bash
 #version 1.0
 
-#Dark Devil
+#Cyber Attack
 
 
 #01/08/18
@@ -23,13 +23,13 @@ blue='\e[1;34m'
 cyan='\e[1;36m'
 red='\e[1;31m'
 
-figlet DARK DEVIL  | lolcat
+figlet CYBER ATTACK  | lolcat
 
 echo -b "_____________________________________________________________" | lolcat
 echo -b "TYPE      : MALLU HACKER $green " |lolcat
 echo -b "VERSION   : V.3 " | lolcat
 echo -b "TOTALS    : 311 TOOLS " | lolcat
-echo -b "AUTHOR    : DARK DEVIL(Anson Benny)$green " |lolcat
+echo -b "AUTHOR    : Cyber Attack $green " |lolcat
 echo -b "ASSOCIATE : KERALA TERMUX ASSOCIATION $green " |lolcat
 echo -b "ASSOCIATE : KERALA TERMUX TUTORIAL $green " |lolcat
 echo -b "ASSOCIATE : KERALA DARK TERMUX ASSOCIATE $green " |lolcat
